@@ -57,6 +57,7 @@ body {
   justify-content: space-between;
   padding: 60px 40px;
   flex-wrap: wrap;
+  margin-left: 200px;
 }
 
 .hero-text h1 {
@@ -111,7 +112,21 @@ body {
 
 .hero-img img {
   width: 300px;
-  border-radius: 10px;
+  border-radius: 50px;
+  margin-right: 200px;
+ }
+
+.first-display {
+  font-size: 13px;
+  color: #094a8b;
+  padding: 0.5%;
+  text-align: center;
+  background-color: #2188f0;
+  width: 30%;
+  border-radius: 20px;
+  margin-left: 35%;
+  font-weight: bold;
+  margin-top: 80px;
 }
 
 /* === ABOUT === */
@@ -335,25 +350,17 @@ body {
 }
 
 .socials a:hover {
-  color: #14B8A6;
+  color: #14b8a6;
 }
 
 /* === RESPONSIVE === */
 @media (max-width: 768px) {
   .hero {
-    flex-direction: column;
-    text-align: center;
+     flex-direction: column;
+     text-align: center;
   }
 
-  .hero-img img {
+  .hero-img {
     margin-top: 20px;
-  }
-
-  .about-highlights {
-    flex-direction: column;
-  }
-
-  .contact-options {
-    flex-direction: column;
   }
 }
