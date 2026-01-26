@@ -20,7 +20,7 @@ A modern, responsive portfolio website built with **HTML, CSS, and JavaScript** 
 - **JavaScript (Vanilla)** – Animations and interactivity  
 - **Font Awesome** – Icons for social links  
 
----
+--
 
 ##  Sections Overview
 1. **Hero Section** – Intro with name, title, and call-to-action buttons  
