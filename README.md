@@ -40,4 +40,4 @@ A modern, responsive portfolio website built with **HTML, CSS, and JavaScript** 
 ---
 
 ## 📝 Credits
-Designed & Developed by **[OYINDev](https://portfolio-io-ashen.vercel.app/)**
+Designed & Developed by **[OYINDev](https://oyinlola.site/)**
