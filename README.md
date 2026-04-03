@@ -2,7 +2,7 @@
 
 A modern, responsive  portfolio website built with **HTML, CSS, and JavaScript** to showcase the professional journey, skills, and projects of **Shola Daniel Ekundayo** – Full Stack Software Engineer.  
 
----
+---  
 
 ## Features
 - 🎨 **Modern UI/UX** with gradient backgrounds and smooth animations  
