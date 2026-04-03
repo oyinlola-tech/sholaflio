@@ -32,12 +32,5 @@ A modern, responsive  portfolio website built with **HTML, CSS, and JavaScript**
 
 ---
 
-##  Contact
-- **Email:** [ekundayoshola129@gmail.com](mailto:ekundayoshola129@gmail.com)  
-- **WhatsApp:** [Chat on WhatsApp](https://wa.me/2349050786168)  
-- **LinkedIn:** [Shola Ekundayo](https://linkedin.com/in/shola-ekundayo)  
-
----
-
 ## 📝 Credits
 Designed & Developed by **[OYINDev](https://oyinlola.site/)**
