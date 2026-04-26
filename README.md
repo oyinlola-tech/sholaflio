@@ -12,7 +12,7 @@ A modern, responsive  portfolio website built with **HTML, CSS, and JavaScript**
 - 📩 **Contact section** with form integration + social media links (Email, WhatsApp, LinkedIn)  
 - 🔗 **Footer with real icons** and designer credit  
 
-----
+---- 
 
 ##  Tech Stack
 - **HTML5** – Structure  
